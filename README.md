@@ -19,7 +19,7 @@
 
 ### Method 2 - Traditional
 
--   从这里 [这里](https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese/releases/download/untagged-2b661ae15890e7666cce/MAS_AIO.cmd)文件。
+-   从[这里](https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese/releases/download/untagged-2b661ae15890e7666cce/MAS_AIO.cmd)下载文件。
 -   运行下载到的`MAS_AIO.cmd`文件。
 -   您将看到激活选项，并按照屏幕上的说明进行操作。
 -   大功告成！
